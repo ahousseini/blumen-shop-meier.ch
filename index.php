@@ -13,6 +13,7 @@
       </div>
     </div>
     <div class="row" data-masonry='{"percentPosition": true }'>
+    <!--<div class="row" data-masonry='{"percentPosition": true }'>-->
       <div class="col-sm-6 col-lg-4 mb-4">
         <div class="card">
           <div class="alert alert-warning" role="alert">
@@ -42,13 +43,13 @@
           <div id="carousel-schnittblumen" class="carousel slide">
 		  <div class="carousel-inner">
 			<div class="carousel-item active">
-			  <img src="img/4f85db07de6a625c3f4e2c22068bede4caf6df7b730ead0ab5acd53a8e025175.png" class="d-block w-100" alt="...">
+			  <img src="img/4f85db07de6a625c3f4e2c22068bede4caf6df7b730ead0ab5acd53a8e025175.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 			<div class="carousel-item">
-			  <img src="img/f2a6ff8fb96fd84fdeb015e0a3c37d760a679bab142c471018976ba2fd631c68.png" class="d-block w-100" alt="...">
+			  <img src="img/f2a6ff8fb96fd84fdeb015e0a3c37d760a679bab142c471018976ba2fd631c68.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 			<div class="carousel-item">
-			  <img src="img/9ea4517ad7e57d7397947d84217750acf90e9a135b0152a79cef2cedf30c533a.png" class="d-block w-100" alt="...">
+			  <img src="img/9ea4517ad7e57d7397947d84217750acf90e9a135b0152a79cef2cedf30c533a.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 		  </div>
 		  <button class="carousel-control-prev" type="button" data-bs-target="#carousel-schnittblumen" data-bs-slide="prev">
@@ -71,10 +72,10 @@
           <div id="carousel-dekorationen" class="carousel slide">
 		  <div class="carousel-inner">
 			<div class="carousel-item active">
-			  <img src="img/0212b6078f48c397268f3047279efd54611a3797007fa0db65d2451a4771c321.png" class="d-block w-100" alt="...">
+			  <img src="img/0212b6078f48c397268f3047279efd54611a3797007fa0db65d2451a4771c321.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 			<div class="carousel-item">
-			  <img src="img/9aefaf793b2aec2e8778fddee48974c68a55932972111ce1e62513999332ad9f.png" class="d-block w-100" alt="...">
+			  <img src="img/9aefaf793b2aec2e8778fddee48974c68a55932972111ce1e62513999332ad9f.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 		  </div>
 		  <button class="carousel-control-prev" type="button" data-bs-target="#carousel-dekorationen" data-bs-slide="prev">
@@ -106,10 +107,10 @@
           <div id="carousel-hochzeitsfloristik" class="carousel slide">
 		  <div class="carousel-inner">
 			<div class="carousel-item active">
-			  <img src="img/8c5342c9873fc2a97d2b1b5c8e95add172efe0f09ccca4e07a7673827073a786.png" class="d-block w-100" alt="...">
+			  <img src="img/8c5342c9873fc2a97d2b1b5c8e95add172efe0f09ccca4e07a7673827073a786.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 			<div class="carousel-item">
-			  <img src="img/27b1bb9edc480594f383eadded793bd64f22e8d4b883f5415daafdc90abadf89.png" class="d-block w-100" alt="...">
+			  <img src="img/27b1bb9edc480594f383eadded793bd64f22e8d4b883f5415daafdc90abadf89.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 		  </div>
 		  <button class="carousel-control-prev" type="button" data-bs-target="#carousel-hochzeitsfloristik" data-bs-slide="prev">
@@ -131,10 +132,10 @@
           <div id="carousel-trauerbinderei" class="carousel slide">
 		  <div class="carousel-inner">
 			<div class="carousel-item active">
-			  <img src="img/acc03cf5374cdc145a6cf909c7d383833512573d85e1f9d5caed3ea2af2c071a.png" class="d-block w-100" alt="...">
+			  <img src="img/acc03cf5374cdc145a6cf909c7d383833512573d85e1f9d5caed3ea2af2c071a.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 			<div class="carousel-item">
-			  <img src="img/a8b76808974ba8edaad668e0abcc2a544b12f2927f9c6ba3f22b2b7df385b072.png" class="d-block w-100" alt="...">
+			  <img src="img/a8b76808974ba8edaad668e0abcc2a544b12f2927f9c6ba3f22b2b7df385b072.png" class="d-block w-100 card-img-top" alt="...">
 			</div>
 		  </div>
 		  <button class="carousel-control-prev" type="button" data-bs-target="#carousel-trauerbinderei" data-bs-slide="prev">
